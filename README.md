@@ -15,4 +15,3 @@ Skills: T-SQL, Python, R, JavaScript, Machine Learning, Big Data, Tableau, Power
 
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musahas)](https://github.com/anuraghazra/github-readme-stats)
