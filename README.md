@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![Data Analyst](githubprofile.jpg)
 
