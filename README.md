@@ -1,5 +1,5 @@
 
-![Data Analyst](githubprofile.jpg)
+![Data Analyst](/gitprof.png) 
 
 
 
