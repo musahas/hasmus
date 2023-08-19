@@ -1,5 +1,5 @@
 
-![Data Analyst](/gitprof2.png) 
+![Data Analyst](/gitprof3.png) 
 
 
 
